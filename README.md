@@ -1,28 +1,212 @@
-<h1 align="center">Hi 👋, I'm Madhav</h1>
-<h3 align="center">A full stack developer </h3>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mad674&label=Profile%20views&color=0e75b6&style=flat" alt="mad674" /> </p>
+<h1 align="center">Hi 👋, I'm Madhav Meruva</h1>
 
+<h3 align="center">
+Backend Engineer • Applied AI & LLM Systems • Scalable API Development
+</h3>
 
-- 🌱 I’m currently learning **AI**
-
-- 👯 I’m looking to collaborate on **MERN stack projects**
-
-- 💬 Ask me about **MERN,ML,AI**
-
-- 📫 How to reach me **madhavmeruva690@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/madhav-meruva-2b559b288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav chandra ms" height="30" width="40" /></a>
-<a href="http://leetcode.com/123mad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="msabhinavchandra" height="30" width="40" /></a>
+<p align="center">
+Passionate about building production-ready backend systems, AI-powered applications, semantic retrieval platforms, and scalable distributed services.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> </a>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mad674&show_icons=true&locale=en&layout=compact" alt="mad674" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mad674&show_icons=true&locale=en" alt="mad674" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mad674&" alt="mad674" /></p>
+* 🎓 B.Tech Computer Science Engineering student at **KMIT (2023–2027)**
+* 💻 Backend-focused engineer with hands-on experience building:
+
+  * Scalable REST APIs
+  * LLM-powered applications
+  * Semantic search systems
+  * Real-time inference pipelines
+  * Distributed backend services
+* ⚡ Strong interest in:
+
+  * Backend Engineering
+  * Applied AI
+  * Distributed Systems
+  * AI Infrastructure
+  * Retrieval-Augmented Generation (RAG)
+  * System Design
+* 🧠 Currently learning:
+
+  * Advanced Backend Architecture
+  * PostgreSQL Internals
+  * Distributed Caching
+  * AI Infrastructure & MLOps
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp" />
+</p>
+
+### ⚙️ Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
+</p>
+
+### 🗄️ Databases & Caching
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+</p>
+
+### 🤖 AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+* LangChain
+* Vector Databases
+* Semantic Search
+* NLP
+* Transformers
+* Retrieval-Augmented Generation (RAG)
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,postman" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+---
+
+## 🚀 Startup Idea Validator
+
+### LLM-Powered Evaluation Platform
+
+🔹 Built a scalable AI-driven platform for evaluating startup ideas using LLM workflows, semantic retrieval, and intelligent scoring systems.
+
+### Key Highlights
+
+* Implemented semantic search using Vector Databases + LangChain
+* Designed scalable backend APIs using FastAPI & Express.js
+* Improved API performance using Redis caching & optimized workflows
+* Built modular architecture supporting concurrent user interactions
+* Integrated JWT authentication and real-time AI responses
+
+### Tech Stack
+
+`FastAPI` `Node.js` `MongoDB` `Redis` `LangChain` `PineconeDB` `OpenAI API`
+
+🔗 GitHub: https://github.com/mad674/startupideavalidator
+
+---
+
+## 📊 Financial Question Answering System (FinQA)
+
+### Neuro-Symbolic AI System
+
+🔹 Developed a financial QA system combining neural retrieval with symbolic reasoning for interpretable predictions.
+
+### Key Highlights
+
+* Built BERT-based retrieval pipeline
+* Implemented LSTM-based program generator
+* Designed symbolic execution workflows
+* Engineered end-to-end ML pipelines:
+
+  * preprocessing
+  * training
+  * evaluation
+  * inference
+* Achieved ~80% prediction accuracy
+
+### Tech Stack
+
+`PyTorch` `FastAPI` `Firebase` `NLP` `LSTM`
+
+🔗 GitHub: https://github.com/mad674/qa
+
+---
+
+## 🎨 Jewellery Design Pattern Generator
+
+### Pix2Pix GAN-Based Image Generation System
+
+🔹 Built a real-time sketch-to-image generation platform using Generative Adversarial Networks.
+
+### Key Highlights
+
+* Implemented Pix2Pix GAN architecture
+* Developed real-time inference pipeline
+* Improved image generation quality through iterative optimization
+* Built scalable client-server architecture
+
+### Tech Stack
+
+`TensorFlow` `Flask` `Node.js` `MongoDB`
+
+🔗 GitHub: https://github.com/mad674/mlmodel
+
+---
+
+# 🧠 Engineering Interests
+
+* Backend Engineering
+* Distributed Systems
+* AI Infrastructure
+* LLM Applications
+* System Design
+* Semantic Retrieval
+* Scalable APIs
+* High-Performance Backend Systems
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mad674&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mad674&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mad674&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 Achievements
+
+* Solved **500+ DSA problems**
+* Built multiple production-oriented AI systems
+* Secured a **Top Team Award** at KMIT Project Expo
+* Participated in national-level hackathons
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/madhav-meruva-2b559b288/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+
+  <a href="https://github.com/mad674" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
+  </a>
+</p>
+
+📧 Email: **[madhavmeruva690@gmail.com](mailto:madhavmeruva690@gmail.com)**
+💻 LeetCode: **https://leetcode.com/123mad**
+
+---
+
+<p align="center">
+  <i>Building scalable systems and intelligent applications through backend engineering and applied AI.</i>
+</p>
