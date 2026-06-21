@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Madhav Meruva</h1>
+<h1 align="center">Hi 👋, I'm M V S Madhav </h1>
 
 <h3 align="center">
 Backend Engineer • Applied AI & LLM Systems • Scalable API Development
