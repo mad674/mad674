@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M V S Madhav </h1>
 
 <h3 align="center">
-Backend Engineer • Applied AI & LLM Systems • Scalable API Development
+Software Engineer • Applied AI & LLM Systems • Scalable API Development
 </h3>
 
 <p align="center">
@@ -183,7 +183,7 @@ Passionate about building production-ready backend systems, AI-powered applicati
 
 # 🏆 Achievements
 
-* Solved **500+ DSA problems**
+* Solved **700+ DSA problems**
 * Built multiple production-oriented AI systems
 * Secured a **Top Team Award** at KMIT Project Expo
 * Participated in national-level hackathons
@@ -193,7 +193,7 @@ Passionate about building production-ready backend systems, AI-powered applicati
 # 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/madhav-meruva-2b559b288/" target="_blank">
+  <a href="https://www.linkedin.com/in/madhavmeruva690/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
 
